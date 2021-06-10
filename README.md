@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Manuchehr1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Manuchehr1 
+- 👀 I’m interested in Creating website.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me t.me/manuchehr_kayumov
 
 <!---
-Manuchehr1/Manuchehr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
